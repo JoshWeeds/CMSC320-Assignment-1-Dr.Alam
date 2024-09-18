@@ -20,3 +20,5 @@ Q4: What skills do you hope to improve during this course?
 Answer: I want to make my python abilities more practical, specifically By
 learning to create some macros. I also want to improve on inferring information from data,
 which I think data visualization should help a lot with.
+other without a merge commit.
+
