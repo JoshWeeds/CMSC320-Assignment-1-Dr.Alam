@@ -11,6 +11,11 @@ might fit the best for different clubs. An example of a Soccer team that does
 this very well is Brighton in the Premier League, they consistently bring in 
 young players who excell, and then sell them on for profit.
 
+Q3: What's the difference between merging and rebasing?
+Answer: Mergin and rebasing are very similar, but merging combines two branches
+by creating a new merge commit, whereas rebasing puts one branch "on top of" the
+other without a merge commit.
+
 Q4: What skills do you hope to improve during this course?
 Answer: I want to make my python abilities more practical, specifically By
 learning to create some macros. I also want to improve on inferring information from data,
